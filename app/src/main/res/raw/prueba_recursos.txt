@@ -1,0 +1,1 @@
+prueba lectura fichero de recursos
