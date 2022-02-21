@@ -200,7 +200,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    public void salir(){
-        MediaPlayer mediaPlayer = MediaPlayer.create(this, )
-    }
+    //public void salir(){
+    //    MediaPlayer mediaPlayer = MediaPlayer.create(this, )
+    //}
 }
